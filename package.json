@@ -1,0 +1,16 @@
+{
+  "name": "two-twenty-two",
+  "version": "1.0.0",
+  "description": "The 222 function",
+  "type": "module",
+  "main": "dist/twoTwentyTwo.js",
+  "types": "dist/twoTwentyTwo.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vitest": "^3.0.0"
+  }
+}
